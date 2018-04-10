@@ -1,0 +1,2 @@
+Đến cả con khỉ cũng hiểu được lệnh Git
+Tao sửa file này có vấn đề gì không?
