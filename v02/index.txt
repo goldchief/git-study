@@ -1,0 +1,3 @@
+﻿Merge branch sẽ được thực hiện bằng lệnh merge.
+
+$ git merge <commit>
